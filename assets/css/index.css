@@ -1,0 +1,152 @@
+.body{
+	font-family: calibri;
+}
+.wrapper {
+	position:relative;
+}
+.wrapper img {
+	width:100%;
+	height:500px;
+}
+.wrapper iframe {
+	display:none;
+}
+.play-btn {
+	position:absolute;
+	margin-top:250px;
+	left:50%;
+	transform:translate(-50%, -50%);
+	background-color:transparent;
+	border:0;
+}
+.play-btn:hover {
+	cursor:pointer;
+}
+.play-btn:focus {
+	outline:0;
+}
+.first-right{
+	padding-top:15px;
+	color: black;
+}
+.first-right-top h2{
+	text-align: center;
+	font-family: gabriola;
+	font-size:50px;
+	margin-top:18px;
+}
+.first-right-top p{
+	margin:0px;
+	text-align: center;
+	font-size: 17px;
+	margin-bottom:28px;
+	padding:0px 15px;
+}
+.first-right-top a{
+	padding:8px 22px;
+	color: white;
+	font-size:18px;
+	background-color: black;
+}
+.first-right-top a:hover{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+}
+.second{
+	text-align: center;
+	font-family:gabriola;
+	background-color:#2C3E50;
+	padding-bottom:30px;
+}
+.second-head h2{
+	margin-top:20px;
+	text-align: center;
+	font-size:45px;
+	color: white;
+}
+.second-block{
+	border-right: 1px solid white;
+}
+.second-block h3{
+	color:#f2d64d;
+	font-size:80px;
+	margin-bottom:0px;
+}
+.second-block p{
+	font-family: calibri;
+	font-size:17px;
+	color: white;
+}
+.third{
+	background-color: #f1f1f1;
+}
+.third-left img{
+	width:100%;
+	height:500px;
+}
+.third-right h2{
+	text-align: center;
+	font-family:gabriola;
+	font-size:60px;
+	margin-top:35px;
+}
+.third-right p{
+	font-size:19px;
+	text-align: center;
+}
+.industry-practice-link a{
+	padding:8px 22px;
+	color: black;
+	font-size:18px;
+	background-color:#f2d64d;	
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.industry-practice-link a:hover{
+	color: white;
+	text-decoration: none;
+}
+.carousel-item .row{
+	padding: 0px 120px;
+}
+.third-right img{
+	width: 90px;
+	height: 90px;
+}
+.third-right h3{
+	font-size: 18px;
+	font-weight: 500;
+	word-spacing: 5px;
+	margin:0px;
+}
+.address{
+	padding-bottom:40px;
+}
+.address h2{
+	font-size: 60px;
+	text-align: center;
+	font-weight:400;
+	margin-top:30px;
+	margin-bottom:45px;
+	font-family:gabriola;
+}
+.fifth-block h2{
+	font-size: 25px;
+	text-align: left;
+}
+.fifth-block h3{
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+.fifth-block p{
+	font-size: 17px;
+	line-height: 26px;
+	margin-bottom: 0px;
+}
+.fifth-block a{
+	text-decoration: none;
+	font-size: 17px;
+	margin:0px;
+	color: #024d87;
+}

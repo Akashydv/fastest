@@ -1,0 +1,29 @@
+
+.footer{
+	background-color: black;
+	padding-bottom:28px;
+}
+.footer h2{
+	color: #f2d64d;
+	font-family: garamond;
+	font-weight:400;
+	border-bottom: 1px solid white;
+	padding-bottom:10px;
+	margin:20px 0px 10px; 
+}
+.footer ul{
+	padding:0px;
+	margin-bottom:40px;
+}
+.footer ul li{
+	list-style: none;
+}
+.footer ul li a{
+	color: white;
+	font-size:13px;
+	line-height:25px;
+}
+.footer p{
+	color: white;
+	font-size: 15px;
+}

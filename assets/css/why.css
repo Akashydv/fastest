@@ -1,0 +1,123 @@
+<style>
+html,body, p, h1, h2, h3{
+	width:100%;
+	margin:0;
+	padding:0;
+	font-family: calibri;
+}
+.title{
+background-color:black;
+width : 101.2%;
+height:150px;
+margin-left:-8px;
+margin-top:4px;
+margin-bottom:10px;
+}
+.title h1{
+	color : white;
+	margin-left:100px;
+	padding-top:50px;
+	font-size:40px;
+	
+}
+.title hr{
+width: 50px;
+border: 3px solid yellow;
+margin-left:100px;
+margin-top:20px;
+}
+.flip{
+	margin-top:40px;
+}
+.read
+{
+	display: none;
+color:blue;
+}
+.fast{
+	margin-top:30px;
+}
+.fast h1{
+	
+	font-size:38px;
+}
+.fast p{
+	
+	margin-right:20px;
+	text-align:justify;	
+}
+.third{
+	margin-bottom:10px;
+}
+.job p{
+	width:100%;
+	margin-left:-30px;
+	font-size:22px;
+	font-weight:500;
+	text-align:justify;
+}
+
+
+.forth{
+	width: 100%;
+	margin-left: -10px;
+	margin-top: 10px;
+	height: auto;
+	font-family: calibri;
+	padding-bottom: 60px;
+	  background-color:white; 
+	
+}
+.flip-box {
+display:inline-block;
+  background-color: transparent;
+  width: 220px;
+  height: 240px;
+  border: 2px solid #d1482a;
+  perspective: 1000px;
+  margin-top:50px;
+  margin-left:20px;
+  cursor:pointer;
+}
+
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  background-color: #bbb;
+  color: black;
+}
+.flip-box-front h2{
+	font-size:20px;
+}
+.flip-box-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+}
+.flip-box-back h2{
+	font-size:19px;
+	margin-bottom:-30px;
+}
+.flip-box-front img{
+	width:100px;
+	height:80px;
+	margin-top:40px;
+}

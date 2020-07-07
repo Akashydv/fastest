@@ -1,0 +1,115 @@
+sca<style>
+html,body, p, h1, h2, h3{
+	width:100%;
+	margin:0;
+	padding:0;
+	font-family: calibri;
+}
+
+.complete-body{
+	font-family: calibri;
+}
+.second{
+	display: inline-block;
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-bottom:40px;	
+}
+.second-head{
+	display: inline-block;
+	margin-left: -8px;
+	 background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+	font-family: calibri;
+	width: 100%;
+	height: 115px;
+	margin-top: 10px;
+	padding-top: 18px;
+}
+.second h1{
+	color: white;
+	margin-top: 10px;
+	font-size: 26px;
+	font-weight: 400;
+	margin-left: 200px;
+}
+.second p{
+	padding-top:25px;
+	line-height: 22px;
+	color: #333;
+	word-spacing: 5px;
+	width:100%;	
+	font-size: 17px;
+	text-align: justify;
+}
+.second img{
+	height:370px;
+}
+.box{
+	background-color:#f1f1f1;
+	height:210px;
+	padding:10px;
+}
+.box p{
+	color:black;
+}
+.box h2{
+	margin-left:110px;
+}
+
+.box img{
+	width:70px;
+	height:70px;
+	margin-left:150px;
+}
+
+.benefits li{
+	margin-left:-20px;
+}
+.services h2{
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+.executive p{
+	margin-top:30px;
+}
+.executive_team h1{
+	text-align:center;
+}
+.executive_team p
+{
+	margin-top:30px;
+}
+.inside_four{
+	margin-top:28px;
+	 background: blue;
+	
+}
+.inside_four h1{
+	margin-top:15px;
+	font-size:22px;
+	color:black;
+}
+.button{
+	background-color:#dbb430;
+}
+.inside_five{
+	background:#dbb430;
+}
+.inside_five h1{
+	text-align:center;
+	font-size:32px;
+}
+.inside_five h2{
+	text-align:justify;
+	font-size:18px;
+	
+}

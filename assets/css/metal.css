@@ -1,0 +1,255 @@
+.metal{
+		width:100%;
+		height:auto;
+}	
+.title{
+background-color:black;
+width : 100.6%;
+height:150px;
+margin-left:-8px;
+}
+.title h1{
+	color : white;
+	margin-left:100px;
+	padding-top:50px;
+	font-size:40px;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 4s; 
+  animation-name: example;
+  animation-duration: 4s;	
+
+}
+.title hr{
+width: 50px;
+border: 3px solid yellow;
+margin-left:100px;
+margin-top:0px;
+position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 4s; 
+  animation-name: example;
+  animation-duration: 4s;	
+
+}
+.metal1{
+	margin-top:50px;
+	position: relative;
+
+
+}	
+.metal1 p{
+font-size:17px;
+font-family: Calibri;
+position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 4s; 
+  animation-name: example;
+  animation-duration: 4s;	
+
+}
+.metal1 img{
+width:100%;
+height:450px;
+margin-bottom:100px;	
+position:relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 4s; 
+  animation-name: exam;
+  animation-duration: 4s;
+}	
+.metal2 h1{
+	margin-top: 30px;	
+	font-family:calibri;
+				position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 8s; 
+  animation-name: example;
+  animation-duration: 8s;
+}
+.metal21{
+	text-align:center;
+	width:300px;
+	height:170px;
+	background-color:red;
+		color:white;
+		margin-top:0px;
+		padding:30px;
+		margin-bottom:50px;
+		position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 8s; 
+  animation-name: example;
+  animation-duration: 8s;	
+}	
+.metal21 img{
+	width:80px;
+	height:70px;
+	position: relative;
+	margin-left:-10px;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 12s; 
+  animation-name: example;
+  animation-duration: 12s;	
+}
+.metal21 p{
+	font-size:18px;
+		margin-top:0px;
+		position: relative;
+	margin-left:-10px;
+			position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 8s; 
+  animation-name: example;
+  animation-duration: 8s;	
+}
+.technologies{
+	width: 100%;
+	display: inline-block;
+	margin-top: 0px;
+	padding: 0px;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 10s; 
+  animation-name: example;
+  animation-duration: 10s;	
+
+}
+.technologies h3{
+	text-align:center;
+	padding:20px;
+	margin-top: 50px;
+	font-size:20px;
+	
+}
+.right-slide{
+	width: 100%;
+	height: 170px;
+	background: gray;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 8s; 
+  animation-name: example;
+  animation-duration: 8s;	
+}
+.metal3 h1{
+	font-family:calibri;
+	padding-bottom:20px;
+	border-bottom:1px solid black;
+	margin-bottom:40px;	
+
+}	
+.metal31{
+	padding-right: 30px;
+	border-right:1px solid black;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 10s; 
+  animation-name: example;
+  animation-duration: 10s;
+}	
+.metal32 img{
+position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;	
+}	
+.metal33{
+margin-left:80px;	
+position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+}	
+.metal33 a{
+	display:inline-block;
+	font-size:30px;
+	position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+}	
+.metal34{
+width:100%;
+height:auto;	
+position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+}	
+.metal34 h1{
+		border-bottom:none;
+		font-family:italic;
+		margin-bottom:20px;
+		padding:0px;
+
+}	
+.metal34 h4{
+	font-size:25px;
+		color:grey;
+		margin-bottom:15px;
+
+  
+}	
+.metal34 p{
+		font-size:18px;
+		text-align:justify;
+		font-weight:400;
+}	
+.metal4{
+width:100%;
+height:auto;
+background-color:#0a73ce;
+}	
+.metal4 img{
+padding:20px;	
+}	
+.metal4 p{
+	font-size:18px;
+		margin-top:30px;
+		color:white;
+}	
+.metal4 button{
+	margin-top:50px;
+	font-weight:500;
+	width:200px;
+	height:60px;
+	background-color:#F2D64D;
+	border:1px solid #ccc;
+}	
+.metal5{	
+	background-color:#F2D64D;
+	width:100%;
+	height:auto;
+	
+	
+}	
+.metal5 h1{
+	margin-left:-20px;
+	padding:20px;
+	font-family:italic;
+	
+	
+}	
+.metal51{
+	border-right:1px solid grey;
+}	
+.metal52{
+	border-right:1px solid grey;
+}	
+
+@-webkit-keyframes example {
+  0%   { left:-500px; top:0px;}
+  50%  { left:0px; top:0px;}
+  
+}
+@-webkit-keyframes exam {
+  0%   { right:-500px; top:0px;}
+  50%  { right:0px; top:0px;}
+  
+}

@@ -1,0 +1,115 @@
+<style>
+html,body, p, h1, h2, h3{
+	width:100%;
+	margin:0;
+	padding:0;
+	font-family: calibri;
+}
+.read
+{
+	display: none;
+color:blue;
+}
+.complete-body{
+	font-family: calibri;
+}
+.senior_two p{
+	font-size:19px;
+}
+
+.second{
+	display: inline-block;
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-bottom:40px;	
+}
+.title{
+background-color:black;
+width : 101.2%;
+height:150px;
+margin-left:-8px;
+margin-top:4px;
+}
+.title h1{
+	color : white;
+	margin-left:-40px;
+	padding-top:50px;
+	font-size:40px;
+	
+}
+.title hr{
+width: 50px;
+border: 3px solid yellow;
+margin-left:100px;
+margin-top:20px;
+}
+.second h1{
+	color: white;
+	margin-top: 10px;
+	font-size: 48px;
+	font-weight: 400;
+	padding-left: 140px;
+}
+.senior_four p{
+	font-size:18px;
+	margin-left:-70px;
+}
+.second_two{
+	width: 100%;
+	margin-left: -10px;
+	margin-top: 10px;
+	height: auto;
+	font-family: calibri;
+	padding-bottom: 60px;
+	background: linear-gradient(to right, #74ebd5, #acb6e5);
+	
+}
+.second_two col-sm-4{
+	width:100%;
+}
+
+.fourth-box{
+	
+	display:inline-block;
+	height: 250px;
+	display: inline-block;
+	margin-left:190px;
+	margin-top:30px;
+	margin-bottom:-175px;
+	
+
+}
+
+.fourth-boxes{
+	width:400px;
+	height:55px;
+	
+	border:2px solid #ccc;
+	margin-left:-135px;
+	background: linear-gradient(to right, #74ebd5, #acb6e5);
+	margin-top:10px;
+	margin-bottom:-100px;
+	padding-left:155px;
+	
+}
+.fourth-boxes img{
+	width:40px;
+	height:40px;
+	margin-left:-148px;
+	margin-top:10px;
+	
+}
+.fourth-boxes h5{
+    margin-left:-60px;
+	margin-top:-40px;
+	font-size:18px;
+	color:black;
+
+}
+.fourth-box:hover .fourth-boxes{
+	background:#d15236;
+	
+}
+
+

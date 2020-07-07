@@ -1,0 +1,26 @@
+.forth{
+	color:white;
+	height:auto;
+	background: linear-gradient(to right, #6f0000, #200122);
+	padding: 0px;
+}
+.forth h1{
+	font-size: 60px;
+	text-align: center;
+	font-weight:400;
+	margin-bottom: 15px;
+	font-family:gabriola;
+}
+.carousel-item h3{
+	font-size: 18px;
+	word-spacing: 5px;
+	line-height: 25px;
+	margin:0px;
+	text-align: center;
+	padding: 0px 50px;
+}
+.carousel-item p{
+	text-align: center;
+	font-size: 16px;
+	padding: 20px 0px;
+}

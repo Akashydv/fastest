@@ -1,0 +1,25 @@
+.total{
+	width:100%;
+	height:auto;
+	background-color:black;
+}
+
+.total h1{
+	background:black; 
+	color:#fff; 
+	padding:35px; 
+	font-family: Calibri;
+	font-size: 45px;
+}
+.total hr{
+width: 60px;
+border: 3px solid yellow;
+margin-left:135px;
+margin-top:-40px;
+
+}
+.pra p{
+	margin:38px;
+	font-size:20px;
+	font-family:calibri;
+}	

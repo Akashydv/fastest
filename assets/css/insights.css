@@ -1,0 +1,49 @@
+
+
+.second{
+	display: inline-block;
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-bottom:40px;	
+}
+.second-head{
+	display: inline-block;
+	margin-left: -8px;
+	 background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+	font-family: calibri;
+	width: 100%;
+	height: 115px;
+	margin-top: 10px;
+	padding-top: 18px;
+}
+.second h1{
+	color: white;
+	margin-top: 10px;
+	font-size: 48px;
+	font-weight: 400;
+	margin-left: 200px;
+}
+
+.pici img{
+	width:100%;
+	height:auto;
+	
+}
+.insights p{
+	text-align:justify;
+	color:white;
+}
+.tex {
+	background-color:#e85862;
+	
+}
+.hiring h1{
+	color:black;
+}
+.hiring img{
+	width:100%;
+}
+.hiring p{
+	text-align:justify;
+}

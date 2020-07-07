@@ -1,0 +1,225 @@
+.heading{
+	width: 100%;
+	height: 200px;
+	background-image: url(assets/images/edu.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-top: 30px;
+}
+.heading h2{
+	font-size: 37px;
+	color: white;
+	margin-left: 90px;
+	margin-top: 10px;
+	padding-top: 30px;
+	
+}
+.heading hr{
+	width:85px; 
+	border: 3px solid #f2d64d;
+	margin-left: 90px;
+}
+.content{
+	margin-top:30px;
+}
+.image img{
+	width: 550px;
+	height: 350px;
+	margin-left:20px;
+}
+.special{
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+	
+}
+.special hr{
+	width: 100%;
+	border: 0.5px solid black;
+	
+}
+.special h2{
+	padding:20px;	
+}	
+.book {
+	width: 300px;
+	height: 150px;
+	background-color:#1A98B4;
+	margin-top: 20px;
+}
+.book img{
+	width: 200px;
+	height: 100px;
+	padding-left: 60px;
+	padding-top: 20px;
+	margin-top: 10px;
+	margin-left: 30px;
+	
+}
+.book h3{
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+.team {
+	width: 100%;
+	height: auto;
+	margin-top: 40px;
+	
+}
+.team hr{
+	width: 1200px;
+	border: 0.5px solid black;
+	margin-left: 100px;
+}
+.team h2{
+	margin-left: 110px;
+}
+.simage{
+	width: 100%;
+	height: auto;
+	border-left: 0.5px solid black;
+	
+}
+.simage img{
+	border-radius: 50%;
+	width: 180px;
+	height: 180px;
+	margin-left: 10px;
+	
+}
+.simagea{
+	margin-left:70px;
+	
+		margin-bottom:50px;
+}	
+.simage a{
+	font-size:30px;
+	margin-top:15px;
+	
+}
+.simage1{
+		width:auto;
+}	
+.simage1 a{
+	font-size:30px;
+	display:inline-block;
+	margin-top:15px;
+
+	
+}
+.scontent{
+	margin-left: 130px;
+		margin-bottom:10px;	
+}
+.scontent hr{
+	width: 1200px;
+	border: 0.5px solid black;
+	margin-left: 100px;
+}
+.content1{
+	margin-top: 30px;
+	margin-left: 400px;
+}
+.simage1{
+	width: 100%;
+	height: auto;
+	margin-left:80px;
+	border-left: 0.5px solid black;
+}
+.simage1 img{
+	border-radius: 50%;
+	width: 190px;
+	height: 180px;
+	margin-left: 20px;
+}
+.scontent1{
+	margin-left: 240px;
+	padding-right: 50px;
+
+}
+
+.representative{
+	width: 100%;
+	height: auto;
+	background-color:#f1dac4;
+}
+.representative h3{
+	padding-top: 30px;
+	font-size: 29px;
+}
+.representative ul li{
+	list-style: none;
+}
+.list{
+	width: 100%;
+	border-left: 0.5px solid black;
+	margin-top: 20px;
+}
+
+.box {
+	background-color: #235789;
+	height: 260px;
+	width: auto;
+
+}
+.box img{
+	width:100%;
+	height : 250px;
+}
+.box p{
+	color:white;
+	font-size: 18px;
+}
+.btn{
+	margin-top: 40px;
+	padding: 40px;
+}
+.consumer21{
+text-align:center;
+width:300px;
+height:170px;
+background-color:#05b5b5;
+color:white;
+margin-top:0px;
+padding:30px;
+margin-bottom:50px;
+
+}
+.consumer21 h3{
+	margin-top: 30px;
+	font-size: 14px
+}
+.consumer21 img{
+width:80px;
+height:70px;
+margin-left:-10px;
+}
+.consumer21 p{
+font-size:18px;
+margin-top:0px;
+margin-left:-10px;
+}
+.technologies{
+width: 100%;
+display: inline-block;
+margin-top: 0px;
+padding: 0px;
+
+}
+.technologies h3{
+text-align:center;
+padding:20px;
+margin-top: 50px;
+font-size:20px;
+
+}
+.right-slide{
+width: 100%;
+height: 170px;
+background: gray;
+ 
+}

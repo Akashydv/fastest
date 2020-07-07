@@ -1,0 +1,144 @@
+<style>
+html,body, p, h1, h2, h3{
+	width:100%;
+	margin:0;
+	padding:0;
+	font-family: calibri;
+}
+
+.complete-body{
+	font-family: calibri;
+}
+.second{
+	display: inline-block;
+	position: relative;
+	height: auto;
+	width: 100%;
+	padding-bottom:40px;	
+}
+.title{
+background-color:black;
+width : 101.2%;
+height:150px;
+margin-left:-8px;
+margin-top:4px;
+}
+.title h1{
+	color : white;
+	margin-left:100px;
+	padding-top:50px;
+	font-size:40px;
+	
+}
+.title hr{
+width: 50px;
+border: 3px solid yellow;
+margin-left:100px;
+margin-top:20px;
+}
+.second p{
+	padding-top:25px;
+	line-height: 22px;
+	color: #333;
+	word-spacing: 5px;
+	width:100%;	
+	font-size: 17px;
+	text-align: justify;
+}
+
+.auto3 h1{
+	font-family:calibri;
+	padding-bottom:20px;
+	border-bottom:1px solid black;
+	margin-bottom:40px;	
+}	
+.auto31{
+	padding-right: 30px;
+	border-right:1px solid black;
+	position: relative;
+  -webkit-animation-name: example; 
+  -webkit-animation-duration: 10s; 
+  animation-name: example;
+  animation-duration: 10s;
+}
+.auto32{
+		position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+}	
+.auto32 img{
+	width:90%;
+	height:auto;
+}	
+.auto33{
+			position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+margin-left:80px;
+
+}	
+.auto33 a{
+	display:inline-block;
+	font-size:30px;
+	margin-bottom:20px;
+}	
+.auto34{
+			position: relative;
+  -webkit-animation-name: exam; 
+  -webkit-animation-duration: 10s; 
+  animation-name: exam;
+  animation-duration: 10s;
+width:100%;
+height:auto;	
+	margin-bottom:80px;
+}	
+.auto34 h1{
+		border-bottom:none;
+		font-family:italic;
+		margin-bottom:20px;
+		padding:0px;
+}	
+.auto34 h4{
+	font-size:25px;
+		color:grey;
+		margin-bottom:15px;
+}	
+.auto34 p{
+		font-size:18px;
+		text-align:justify;
+		font-weight:400;		
+}
+.box {
+	background-color: #235789;
+	height: 260px;
+	width: auto;
+
+}
+.box img{
+	width:100%;
+	height : 250px;
+}
+.box p{
+	color:white;
+	font-size: 18px;
+}
+.btn{
+	margin-top: 40px;
+	padding: 40px;
+}
+.inside_five{
+	background:#dbb430;
+}
+.inside_five h1{
+	text-align:center;
+	font-size:32px;
+}
+.inside_five h2{
+	text-align:justify;
+	font-size:18px;
+	
+}
